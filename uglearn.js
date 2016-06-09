@@ -16,10 +16,8 @@ loadData=function(url){
 
 createCols=function(){
     ug.parms=Object.getOwnPropertyNames(ug.rows[0])
-    ug.parms.forEach(function(p){
-        4
+    ug.parms.forEach(function(p){  
     })
-    4
 }
 
 loadData()
